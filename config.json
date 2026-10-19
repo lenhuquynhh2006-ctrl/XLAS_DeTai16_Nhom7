@@ -1,0 +1,11 @@
+{
+  "reference_length_mm": 297,
+  "reference_width_mm": 210,
+  "fixed_threshold": 130,
+  "white_min_value": 150,
+  "white_max_saturation": 50,
+  "background_hsv_lower": [0, 60, 0],
+  "background_hsv_upper": [15, 255, 255],
+  "min_area_fraction": 0.0015,
+  "reference_min_area_fraction": 0.03
+}
