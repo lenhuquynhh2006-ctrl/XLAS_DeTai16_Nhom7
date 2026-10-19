@@ -1,0 +1,156 @@
+image_name,object_id,role,length_mm,width_mm,area_mm2,area_definition,position_note
+anh-PA01.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh-PA01.jpg,OBJ01,target,170.0,75.0,12750.0,,quat_cam_tay
+anh08.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh08.jpg,OBJ01,target,170.0,45.0,7650.0,rectangle,hop_bi_dao
+anh08.jpg,OBJ02,target,55.0,30.0,1650.0,rectangle,keo_kopiko
+anh1.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh1.jpg,OBJ01,target,140.0,70.0,9800.0,rectangle,sac_du_phong
+anh1.jpg,OBJ02,target,75.0,75.0,5625.0,rectangle,keo_mut
+anh10.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh10.jpg,OBJ01,target,170.0,85.0,14450.0,,bao_li_xi_mua_lan
+anh11.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh11.jpg,OBJ01,target,200.0,55.0,11000.0,rectangle,mo_let
+anh11.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anh13.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh13.jpg,OBJ01,target,65.0,38.0,2470.0,rectangle,chai_dau
+anh13.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anh13.jpg,OBJ03,target,145.0,10.0,1450.0,rectangle,but_bi
+anh2.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh2.jpg,OBJ01,target,170.0,85.0,14450.0,rectangle,bao_li_xi_mua_lan
+anh2.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anh21.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh21.jpg,OBJ01,target,140.0,70.0,9800.0,,sac_du_phong
+anh22.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh22.jpg,OBJ01,target,120.0,30.0,3600.0,rectangle,goi_yumangel
+anh3.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh3.jpg,OBJ01,target,145.0,10.0,1450.0,rectangle,but_bi
+anh3.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anh3.jpg,OBJ03,target,125.0,25.0,3125.0,rectangle,hop_nuoc_hoa
+anh30.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh30.png,OBJ01,target,200.0,75.0,15000.0,rectangle,hop_but_gau
+anh31.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh31.jpg,OBJ01,target,120.0,30.0,3600.0,rectangle,goi_yumangel
+anh31.jpg,OBJ02,target,45.0,45.0,2025.0,rectangle,moc_khoa
+anh32.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh32.png,OBJ01,target,200.0,60.0,12000.0,rectangle,chai_nuoc
+anh4.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh4.jpg,OBJ01,target,90.0,60.0,5400.0,rectangle,the_conan
+anh5.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh5.jpg,OBJ01,target,170.0,75.0,12750.0,rectangle,quat_cam_tay
+anh6.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh6.jpg,OBJ01,target,145.0,10.0,1450.0,rectangle,but_bi
+anh6.jpg,OBJ02,target,175.0,7.0,1225.0,rectangle,but_chi
+anh6.jpg,OBJ03,target,75.0,65.0,4875.0,rectangle,hop_urgo
+anh7.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh7.jpg,OBJ01,target,170.0,45.0,7650.0,rectangle,hop_bi_dao
+anh8.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh8.jpg,OBJ01,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anh8.jpg,OBJ02,target,90.0,60.0,5400.0,rectangle,the_bai_amuro
+anh8.jpg,OBJ03,target,90.0,60.0,5400.0,rectangle,the_bai_conan
+anh9.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh9.jpg,OBJ01,target,145.0,115.0,16675.0,rectangle,goi_mi_hao_hao
+anh_PA02.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh_PA02.jpg,OBJ01,target,75.0,75.0,5625.0,rectangle,keo_mut_ngoi_sao
+anh_PA03.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anh_PA03.jpg,OBJ01,target,210.0,150.0,31500.0,rectangle,bia_bang_thpt
+anhh12.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh12.jpg,OBJ01,target,65.0,55.0,3575.0,rectangle,goi_tam_tre
+anhh13.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh13.jpg,OBJ01,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh13.jpg,OBJ02,target,95.0,85.0,8075.0,rectangle,goi_hygiene
+anhh14.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh14.jpg,OBJ01,target,90.0,60.0,5400.0,rectangle,the_bai_anime
+anhh15.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh15.jpg,OBJ01,target,125.0,25.0,3125.0,rectangle,hop_my_pham
+anhh15.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh15.jpg,OBJ03,target,175.0,7.0,1225.0,rectangle,but_chi
+anhh16.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh16.jpg,OBJ01,target,175.0,7.0,1225.0,rectangle,but_chi
+anhh16.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh16.jpg,OBJ03,target,170.0,45.0,7650.0,rectangle,hop_colgate
+anhh17.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh17.jpg,OBJ01,target,110.0,70.0,7700.0,rectangle,goi_snack_bap
+anhh18.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh18.jpg,OBJ01,target,125.0,25.0,3125.0,rectangle,hop_my_pham
+anhh19.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh19.jpg,OBJ01,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh19.jpg,OBJ02,target,65.0,55.0,3575.0,rectangle,goi_tam_tre
+anhh20.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh20.jpg,OBJ01,target,145.0,10.0,1450.0,rectangle,but_bi
+anhh20.jpg,OBJ02,target,170.0,45.0,7650.0,rectangle,hop_colgate
+anhh23.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh23.jpg,OBJ01,target,90.0,60.0,5400.0,rectangle,the_bai_anime
+anhh23.jpg,OBJ02,target,45.0,45.0,2025.0,square,moc_khoa_vuong
+anhh24.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh24.jpg,OBJ01,target,75.0,65.0,4875.0,rectangle,hop_urgo
+anhh24.jpg,OBJ02,target,95.0,85.0,8075.0,rectangle,goi_hygiene
+anhh24.jpg,OBJ03,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh25.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh25.jpg,OBJ01,target,45.0,45.0,2025.0,square,moc_khoa_vuong
+anhh25.jpg,OBJ02,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh26.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh26.jpg,OBJ01,target,110.0,28.0,3080.0,rectangle,but_da_quang
+anhh26.jpg,OBJ02,target,125.0,25.0,3125.0,rectangle,hop_my_pham
+anhh27.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh27.jpg,OBJ01,target,75.0,60.0,4500.0,rectangle,hu_tam_bong
+anhh28.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh28.jpg,OBJ01,target,200.0,50.0,10000.0,rectangle,mo_let
+anhh29.jpg,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+anhh29.jpg,OBJ01,target,45.0,45.0,2025.0,square,moc_khoa_vuong
+anhh29.jpg,OBJ02,target,165.0,90.0,14850.0,rectangle,dau_lan
+img_001.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_001.png,OBJ01,target,145.0,10.0,1450.0,rectangle,but_bi
+img_001.png,OBJ02,target,145.0,95.0,13775.0,rectangle,so_tay_do
+img_001.png,OBJ03,target,45.0,20.0,900.0,rectangle,cuc_tay
+img_001.png,OBJ04,target,60.0,25.0,1500.0,rectangle,chia_khoa
+img_001.png,OBJ05,target,25.0,25.0,625.0,square,dong_xu
+img_003.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_003.png,OBJ01,target,45.0,20.0,900.0,rectangle,cuc_tay
+img_005.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_005.png,OBJ01,target,175.0,7.0,1225.0,rectangle,but_chi
+img_005.png,OBJ02,target,60.0,20.0,1200.0,rectangle,usb
+img_005.png,OBJ03,target,25.0,25.0,625.0,square,dong_xu
+img_008.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_008.png,OBJ01,target,145.0,60.0,8700.0,rectangle,keo
+img_008.png,OBJ02,target,45.0,20.0,900.0,rectangle,cuc_tay
+img_008.png,OBJ03,target,60.0,25.0,1500.0,rectangle,chia_khoa
+img_013.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_013.png,OBJ01,target,150.0,35.0,5250.0,rectangle,luoc
+img_016.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_016.png,OBJ01,target,160.0,30.0,4800.0,rectangle,thuoc_ke
+img_021.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_021.png,OBJ01,target,185.0,25.0,4625.0,rectangle,nia_inox
+img_027.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_027.png,OBJ01,target,155.0,60.0,9300.0,rectangle,hop_kinh
+img_028.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_028.png,OBJ01,target,90.0,45.0,4050.0,rectangle,kep_toc
+img_029.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_029.png,OBJ01,target,115.0,10.0,1150.0,rectangle,que_kem_xanh_la
+img_029.png,OBJ02,target,115.0,10.0,1150.0,rectangle,que_kem_vang
+img_030.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_030.png,OBJ01,target,75.0,75.0,5625.0,square,giay_note_xanh
+img_033.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_033.png,OBJ01,target,60.0,15.0,900.0,rectangle,bam_mong_tay
+img_036.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_036.png,OBJ01,target,105.0,25.0,2625.0,rectangle,but_da_quang_hong
+img_036.png,OBJ02,target,135.0,15.0,2025.0,rectangle,but_da_xanh
+img_037.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_037.png,OBJ01,target,145.0,70.0,10150.0,rectangle,dien_thoai
+img_037.png,OBJ02,target,60.0,25.0,1500.0,rectangle,chia_khoa
+img_040.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_040.png,OBJ01,target,145.0,95.0,13775.0,rectangle,so_tay_tim
+img_040.png,OBJ02,target,145.0,10.0,1450.0,rectangle,but_bi_den
+img_041.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_041.png,OBJ01,target,145.0,30.0,4350.0,rectangle,muong_inox
+img_041.png,OBJ02,target,30.0,30.0,900.0,square,nap_chai
+img_043.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_043.png,OBJ01,target,160.0,30.0,4800.0,rectangle,thuoc_ke
+img_043.png,OBJ02,target,45.0,20.0,900.0,rectangle,cuc_tay
+img_043.png,OBJ03,target,145.0,10.0,1450.0,rectangle,but_bi_xanh_la
+img_044.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_044.png,OBJ01,target,90.0,30.0,2700.0,rectangle,may_dap_ghim
+img_044.png,OBJ02,target,60.0,25.0,1500.0,rectangle,chia_khoa
+img_045.png,REF01,reference,297.0,210.0,62370.0,rectangle,A4 paper
+img_045.png,OBJ01,target,170.0,15.0,2550.0,rectangle,ban_chai_danh_rang
+img_045.png,OBJ02,target,155.0,60.0,9300.0,rectangle,hop_kinh
